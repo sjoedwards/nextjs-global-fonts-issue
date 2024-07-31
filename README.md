@@ -1,0 +1,1 @@
+# nextjs-global-fonts-issue
